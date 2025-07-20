@@ -4,7 +4,7 @@ This repository contains solutions to **Week 7** of the **Celebal Technologies S
 
 Each SCD type has its own folder structured with:
 - `Queries/`: Contains SQL files used to create and execute the stored procedure.
-- `Outputs/`: Contains execution screenshots and results demonstrating each SCD implementation.
+- `Outputs/`: Contains execution results demonstrating each SCD implementation.
 
 ---
 
@@ -33,7 +33,7 @@ Each SCD type has its own folder structured with:
 
 Each folder contains:
 - ✅ `Queries/`: The `.sql` files used to define and run the stored procedures.
-- 📷 `Outputs/`: Screenshots of executed results from SQL Server Management Studio (SSMS).
+- 📷 `Outputs/`: Contains executed results from SQL Server Management Studio (SSMS).
 
 ---
 
@@ -47,7 +47,7 @@ Each folder contains:
 
 ## 📬 Contact
 
-For any queries or guidance, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aniruddhasarkar187) or drop an email at: `aniruddhasarkar187@gmail.com`
+For any queries or guidance, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aniruddha-sarkar-90a34334b/) or drop an email at: `aniruddhas387@gmail.com`
 
 ---
 
